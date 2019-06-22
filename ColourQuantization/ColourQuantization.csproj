@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F791198B-95EF-4B38-9EE6-B2115EE798BC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OctreeQuantization</RootNamespace>
-    <AssemblyName>OctreeQuantization</AssemblyName>
+    <RootNamespace>ColourQuantization</RootNamespace>
+    <AssemblyName>ColourQuantization</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
